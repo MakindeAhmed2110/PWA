@@ -1,0 +1,21 @@
+{
+    "name": "First P-w-a",
+    "short_name": "PWA",
+    "start_url": "index.html",
+    "scope": "./",
+    "icons": [
+      {
+        "src": "favicon.ico",
+        "sizes": "192x192",
+        "type": "favicon/ico"
+      },
+      {
+        "src": "favicon.ico",
+        "sizes": "512x512",
+        "type": "favicon/ico"
+      }
+    ],
+    "theme_color": "#ffd31d",
+    "background_color": "#333",
+    "display": "standalone"
+  }
